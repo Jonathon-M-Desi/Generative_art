@@ -92,5 +92,6 @@ def main():
     picture = get_antialias()
     picture.show()
 
-main()
+if __name__ == "__main__":
+    main()
 
